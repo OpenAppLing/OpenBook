@@ -1,13 +1,5 @@
 Welcome! 
 
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). 
+This is the OPEN book for applied linguistics, a living book with all things related to open scholarship in applied linguistics! The book is maintained by Open Applied Linguistics, an AILA Research Network dedicated to promoting open scholarship in applied linguistics. 
 
-This template provides a skeleton file structure that you can edit to create your book. 
-
-The contents inside the .Rmd files provide some pointers to help you get started, but feel free to also delete the content in each file and start fresh.
-
-Additional resources:
-
-The **bookdown** book: https://bookdown.org/yihui/bookdown/
-
-The **bookdown** package reference site: https://pkgs.rstudio.com/bookdown
+Check out our [website](http://openappliedlinguistics.org/) for more about who we are and what we do! 
